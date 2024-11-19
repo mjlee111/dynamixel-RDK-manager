@@ -18,4 +18,4 @@ Dynamixel RDK를 위한 간단한 GUI입니다.
 $ ros2 run dynamixel_rdk_manager dynamixel_rdk_manager
 ```
 
-![image](../docs/images/rdk_manager_gui_sample.png)
+![image](docs/rdk_manager_gui_sample.png)

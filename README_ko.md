@@ -19,3 +19,14 @@ $ ros2 run dynamixel_rdk_manager dynamixel_rdk_manager
 ```
 
 ![image](docs/rdk_manager_gui_sample.png)
+
+## Contributing
+I welcome all contributions! Whether it's bug reports, feature suggestions, or pull requests, your input helps me to improve. If you're interested in contributing, please check out my contributing guidelines or submit an issue.
+
+## License
+This project is licensed under the [Apache 2.0 License](LICENSE). Feel free to use and distribute it according to the terms of the license.
+
+## Contact
+If you have any questions or feedback, don't hesitate to reach out! You can contact me at [menggu1234@naver.com][email].
+
+[email]: mailto:menggu1234@naver.com
